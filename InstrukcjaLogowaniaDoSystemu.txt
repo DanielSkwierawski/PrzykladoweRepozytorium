@@ -2,3 +2,6 @@ Zeby się zalogować wejdź na stronę abc.pl
 podaj nazwe uzytkownika
 podaj haslo
 kliknij zaloguj
+###
+stopka
+###
