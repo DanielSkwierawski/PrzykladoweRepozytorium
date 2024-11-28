@@ -1,4 +1,4 @@
-Zeby się zalogować wejdź na stronę abc.pl
+Zeby się zalogować wejdź na stronę xyz.pl
 podaj nazwe uzytkownika
 podaj haslo
 kliknij zaloguj
