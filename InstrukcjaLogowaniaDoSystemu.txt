@@ -1,0 +1,3 @@
+Zeby się zalogować wejdź na stronę abc.pl
+podaj haslo
+kliknij zaloguj
