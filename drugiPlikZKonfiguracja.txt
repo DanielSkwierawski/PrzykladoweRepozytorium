@@ -1,2 +1,3 @@
 konfiguracja serwera
 ip: xx
+instrukcja jak połączyć się z serwerem
