@@ -1,4 +1,4 @@
-Aby się zalogować wejdź na stronę xyz.pl
+Aby się zalogować wejdź na stronę asd.pl
 podaj nazwe uzytkownika
 podaj haslo
 kliknij zaloguj
